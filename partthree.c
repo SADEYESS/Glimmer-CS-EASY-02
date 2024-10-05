@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 int top = -1;       //初始化栈中元素的下标为 -1
 char stack[30];     //初始化栈中存储的字符最多为30个
 

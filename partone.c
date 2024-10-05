@@ -5,7 +5,7 @@ typedef struct Node    //定义出节点的结构体，包含存储的数据和�
 {
     int data;
     struct Node* next;
-} NODE;
+}NODE;
 
 NODE* CreateNode(int data)   //创建节点的函数，为新的节点动态分配内存，获取输入和数据并初始化指针为空
 {
@@ -93,7 +93,7 @@ int pop()             //构造一个出栈的函数
 {
     int num = stack[top];  
     top--; 
-    return num;
+return num;
 }
 
 
