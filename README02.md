@@ -533,7 +533,7 @@ return 0;
 glimmerinheartnofear4dark
 ```
 
-也就是 
+也就是    
 **Glimmer in heart no fear for dark**   
 心有微光，不惧黑暗
 
