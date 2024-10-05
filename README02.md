@@ -535,5 +535,6 @@ glimmerinheartnofear4dark
 
 也就是 
 **Glimmer in heart no fear for dark**
+心有微光，不惧黑暗
 
 好一场浪漫 ~~且痛苦~~的解谜
